@@ -1,0 +1,10 @@
+# Fișiere sistem
+.DS_Store
+Thumbs.db
+
+# Medii virtuale/package managers
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.env
